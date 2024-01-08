@@ -25,8 +25,9 @@ class MyApp extends StatelessWidget {
             Icon(Icons.menu),
             SizedBox(width: 20),
             Icon(Icons.notifications_outlined),
-            SizedBox(width: 20)
+            SizedBox(width: 21)
           ],
+
         shape: Border(
           bottom: BorderSide(
             color: Colors.black12,
